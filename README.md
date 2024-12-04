@@ -1,10 +1,10 @@
 # AI Project: Real Estate Market Analysis
 
 ## Group Members
-KU2407U472	Aastha Bhatt
-KU2407U473	Aditi Patnaik
-KU2407U474	Anushka Kukda
-KU2407U476	Kanani Deep Nileshbhai
+- KU2407U472	Aastha Bhatt
+- KU2407U473	Aditi Patnaik
+- KU2407U474	Anushka Kukda
+- KU2407U476	Kanani Deep Nileshbhai
 
 ## Objective of the Project
 Analyze the real estate market to identify trends, pricing patterns, and investment opportunities. Use data-driven insights to evaluate market dynamics, forecast property values, and assess the impact of economic factors. Deliver actionable recommendations for buyers, sellers, and investors to optimize decision-making in the real estate industry.
